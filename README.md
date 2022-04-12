@@ -1,13 +1,13 @@
 <h1 align="center">Hello there I'm Gregori</h1>
-<h3 align="center">A passionate python developer and Django backend dev and crypto trader</h3>
+<h3 align="center">A passionate python developerm Django backend developer and crypto trader</h3>
 
 - 🔭 I’m currently working on **web apps to enrich my portfolio**
 
 - 🌱 I’m currently learning **Python, Django, DRF**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-gregori.herokuapp.com/lan=en](https://portfolio-website-gregori.herokuapp.com/lan=en)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-gregori.herokuapp.com/](https://portfolio-website-gregori.herokuapp.com/)
 
-- 💬 Ask me about **Python, Django, Html, Trading**
+- 💬 Ask me about **Python, Django, Trading**
 
 - 📫 How to reach me **gregoriazuaje04@gmail.com**
 
