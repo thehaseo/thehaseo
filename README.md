@@ -1,7 +1,7 @@
 <h1 align="center">Hello there I'm Gregori</h1>
 <h3 align="center">A passionate python developerm Django backend developer and crypto trader</h3>
 
-- 🔭 I’m currently working on **web apps to enrich my portfolio**
+- 🔭 I’m currently working on **develop web apps to enrich my portfolio**
 
 - 🌱 I’m currently learning **Python, Django, DRF**
 
